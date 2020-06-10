@@ -1,0 +1,13 @@
+.bg-light {
+  background-color: rgb(71, 197, 128) !important;
+}
+
+.nav-item {
+  justify-content: space-evenly !important;
+  font-size: 20px;
+}
+
+.navbar-brand {
+  font-size: 25px;
+  color: yellow;
+}
